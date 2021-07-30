@@ -1,0 +1,23 @@
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.abs-center button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.abs-center a{
+    text-decoration: none;
+}
+
+.form {
+    width: 450px;
+}
+
+.form-group h1{
+    text-align: center;
+}
